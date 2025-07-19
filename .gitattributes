@@ -1,0 +1,15 @@
+# 设置所有文本文件使用自动换行符管理
+* text=auto
+
+# 统一以下类型使用 LF 换行符（适配前端项目）
+*.js     text eol=lf
+*.ts     text eol=lf
+*.json   text eol=lf
+*.css    text eol=lf
+*.scss   text eol=lf
+*.html   text eol=lf
+*.md     text eol=lf
+*.vue    text eol=lf
+*.yml    text eol=lf
+*.yaml   text eol=lf
+*.svg    text eol=lf
