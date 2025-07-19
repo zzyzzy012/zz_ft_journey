@@ -4,10 +4,10 @@ layout: home
 
 hero:
   name: "ZZ_FT_Site"
-  text: "我的前端学习之旅。"
+  text: "我的前端学习之旅"
   tagline: My front-end learning journey.
   image:
-    src: ./images/dog2.svg
+    src: ./images/dog.svg
     alt: dog
   actions:
     - theme: brand
@@ -19,8 +19,8 @@ hero:
 
 features:
   - title: 前端八股总结
-    details: 全面、细致、专业，涉及HTML、CSS、JS、ES6、Vue、计网、打包工具...，并持续更新
+    details: 目前整理了HTML、CSS、JS、ES6、Vue、计网、打包工具、前端安全、前端跨域这些内容，其他内容持续更新中....
   - title: 我的项目
-    details: 完成两个项目，一个旅游网项目；仿ElementPlus组件库。
+    details: 建设中...
 ---
 

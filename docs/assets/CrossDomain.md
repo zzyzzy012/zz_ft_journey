@@ -1,7 +1,5 @@
 # 跨域
 
-[TOC]
-
 ## AJAX
 
 **AJAX (*Asynchronous JavaScript and XML*) **：异步的 `JS` 和 `XML`。是一种创建交互式网页应用的网页开发技术，可以在不重新加载整个网页的情况下，与服务器交换数据，并且更新部分网页。
