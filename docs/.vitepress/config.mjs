@@ -8,7 +8,7 @@ export default defineConfig({
   description: "My front-end learning journey.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    head: [['link', {rel:'icon', href:'./images/cat_help.svg'}]],
+    head: [['link', {rel:'icon', href:'/images/cat_help.svg'}]],
     logo: './images/cat_help.svg',
     // 右侧侧边栏标题
     outlineTitle: '目录',
