@@ -27,7 +27,7 @@ export default defineConfig({
         text: 'HTML+CSS',
         items: [
           { text: 'HTML', link: 'assets/HTML+CSS/HTML_Summary.md' },
-          { text: 'CSS', link: 'assets/HTML+CSS/CSS_Summary.md' },
+          { text: 'CSS', link: 'assets/HTML+CSS/CSS_Summary.md', },
           { text: 'HTML+CSS Less Points', link: 'assets/HTML+CSS/UncommonPoints.md' }
         ]
       },
@@ -36,7 +36,7 @@ export default defineConfig({
         items: [
           { text: 'JavaScript1', link: 'assets/JS/JS_Summary1.md' },
           { text: 'JavaScript2', link: 'assets/JS/JS_Summary2.md' },
-          { text: 'JS手写题总结', link: 'assets/JS/JS_Hand_code.md' },
+          { text: 'JS手写题总结', link: 'assets/JS/JS_Hand_Code.md' },
         ]
       },
       {
@@ -86,6 +86,7 @@ export default defineConfig({
     ],
     search: {
       provider: 'local'
-    }
+    },
+    
   }
 })
