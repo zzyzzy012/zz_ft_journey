@@ -1,0 +1,48 @@
+# Node
+node_modules/
+dist/
+temp/
+.tmp/
+.cache/
+.vite/
+
+# VitePress/Vite
+.vitepress/dist/
+.vitepress/cache/
+.vitepress/.vitepress_cache/
+
+# VSCode
+.vscode/
+
+# macOS & system files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env & local config
+.env*
+!.env.example
+
+# TypeScript build
+*.tsbuildinfo
+
+# Optional: lock files (如果你统一使用某一个就留一个)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Optional: IDE configs
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Git backup
+*.orig
